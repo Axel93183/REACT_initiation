@@ -1,0 +1,35 @@
+.App{
+    border: 5px solid rebeccapurple;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    position: absolute;
+ 
+}
+
+.profile{
+        border: 5px solid rebeccapurple;
+        margin: 1rem;
+        padding: 1rem;
+        text-align: center;
+        background-color: rgb(153, 208, 245);
+}
+
+.animal{
+    border: 5px solid rgb(18, 255, 140);
+        margin: 1rem;
+        padding: 1rem;
+       text-align: center;
+        background-color: rgb(197, 45, 220);
+        font-size: 1em;
+}
+
+.machine{
+    border: 5px solid rgb(197, 45, 220);
+    margin: 1rem;
+    padding: 1rem;
+   text-align: center;
+    background-color:  rgb(18, 255, 140);
+}
