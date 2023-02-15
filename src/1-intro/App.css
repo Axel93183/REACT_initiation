@@ -1,0 +1,28 @@
+.personne{
+    border: 2px solid rebeccapurple;
+    margin: 1rem;
+    padding: 1rem;
+    width: 30%;
+    text-align: center;
+}
+.person{
+    border: 2px solid rebeccapurple;
+    margin: 1rem;
+    padding: 1rem;
+    width: 30%;
+    text-align: center;
+}
+.maison{
+    border: 2px solid rebeccapurple;
+    margin: 1rem;
+    padding: 1rem;
+    width: 50%;
+    text-align:justify;
+}
+.voiture{
+    border: 2px solid rebeccapurple;
+    margin: 1rem;
+    padding: 1rem;
+    width: 30%;
+    text-align: center;
+}
