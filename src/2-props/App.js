@@ -31,7 +31,7 @@ function App(props) {
         hasCar={true}
       /> */}
 
-      
+
         <h1> 💲💲🎰🎰🎰Machine à sous! 🎰🎰🎰💲💲</h1>
 
         <Machine s1="🍒" s2="🍒" s3="🍒" />
@@ -41,6 +41,7 @@ function App(props) {
         <Machine s1="🍓" s2="🍓" s3="🍓" />
         <Machine s1="🍇" s2="🍓" s3="🍒" />
       
+   
     </div>
   );
 }

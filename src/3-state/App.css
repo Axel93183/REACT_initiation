@@ -1,0 +1,13 @@
+.App{
+    width: 1000px;
+    height:300px;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 2px #ccc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
